@@ -1,0 +1,14 @@
+C:\Users\geeth\source\repos\swapofnums\swapofnums\bin\Debug\netcoreapp3.1\swapofnums.exe
+C:\Users\geeth\source\repos\swapofnums\swapofnums\bin\Debug\netcoreapp3.1\swapofnums.deps.json
+C:\Users\geeth\source\repos\swapofnums\swapofnums\bin\Debug\netcoreapp3.1\swapofnums.runtimeconfig.json
+C:\Users\geeth\source\repos\swapofnums\swapofnums\bin\Debug\netcoreapp3.1\swapofnums.runtimeconfig.dev.json
+C:\Users\geeth\source\repos\swapofnums\swapofnums\bin\Debug\netcoreapp3.1\swapofnums.dll
+C:\Users\geeth\source\repos\swapofnums\swapofnums\bin\Debug\netcoreapp3.1\swapofnums.pdb
+C:\Users\geeth\source\repos\swapofnums\swapofnums\obj\Debug\netcoreapp3.1\swapofnums.csproj.AssemblyReference.cache
+C:\Users\geeth\source\repos\swapofnums\swapofnums\obj\Debug\netcoreapp3.1\swapofnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geeth\source\repos\swapofnums\swapofnums\obj\Debug\netcoreapp3.1\swapofnums.AssemblyInfoInputs.cache
+C:\Users\geeth\source\repos\swapofnums\swapofnums\obj\Debug\netcoreapp3.1\swapofnums.AssemblyInfo.cs
+C:\Users\geeth\source\repos\swapofnums\swapofnums\obj\Debug\netcoreapp3.1\swapofnums.csproj.CoreCompileInputs.cache
+C:\Users\geeth\source\repos\swapofnums\swapofnums\obj\Debug\netcoreapp3.1\swapofnums.dll
+C:\Users\geeth\source\repos\swapofnums\swapofnums\obj\Debug\netcoreapp3.1\swapofnums.pdb
+C:\Users\geeth\source\repos\swapofnums\swapofnums\obj\Debug\netcoreapp3.1\swapofnums.genruntimeconfig.cache

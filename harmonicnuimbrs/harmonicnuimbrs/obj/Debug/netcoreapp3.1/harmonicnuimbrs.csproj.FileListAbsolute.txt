@@ -1,0 +1,13 @@
+C:\Users\geeth\source\repos\harmonicnuimbrs\harmonicnuimbrs\bin\Debug\netcoreapp3.1\harmonicnuimbrs.exe
+C:\Users\geeth\source\repos\harmonicnuimbrs\harmonicnuimbrs\bin\Debug\netcoreapp3.1\harmonicnuimbrs.deps.json
+C:\Users\geeth\source\repos\harmonicnuimbrs\harmonicnuimbrs\bin\Debug\netcoreapp3.1\harmonicnuimbrs.runtimeconfig.json
+C:\Users\geeth\source\repos\harmonicnuimbrs\harmonicnuimbrs\bin\Debug\netcoreapp3.1\harmonicnuimbrs.runtimeconfig.dev.json
+C:\Users\geeth\source\repos\harmonicnuimbrs\harmonicnuimbrs\bin\Debug\netcoreapp3.1\harmonicnuimbrs.dll
+C:\Users\geeth\source\repos\harmonicnuimbrs\harmonicnuimbrs\bin\Debug\netcoreapp3.1\harmonicnuimbrs.pdb
+C:\Users\geeth\source\repos\harmonicnuimbrs\harmonicnuimbrs\obj\Debug\netcoreapp3.1\harmonicnuimbrs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geeth\source\repos\harmonicnuimbrs\harmonicnuimbrs\obj\Debug\netcoreapp3.1\harmonicnuimbrs.AssemblyInfoInputs.cache
+C:\Users\geeth\source\repos\harmonicnuimbrs\harmonicnuimbrs\obj\Debug\netcoreapp3.1\harmonicnuimbrs.AssemblyInfo.cs
+C:\Users\geeth\source\repos\harmonicnuimbrs\harmonicnuimbrs\obj\Debug\netcoreapp3.1\harmonicnuimbrs.csproj.CoreCompileInputs.cache
+C:\Users\geeth\source\repos\harmonicnuimbrs\harmonicnuimbrs\obj\Debug\netcoreapp3.1\harmonicnuimbrs.dll
+C:\Users\geeth\source\repos\harmonicnuimbrs\harmonicnuimbrs\obj\Debug\netcoreapp3.1\harmonicnuimbrs.pdb
+C:\Users\geeth\source\repos\harmonicnuimbrs\harmonicnuimbrs\obj\Debug\netcoreapp3.1\harmonicnuimbrs.genruntimeconfig.cache

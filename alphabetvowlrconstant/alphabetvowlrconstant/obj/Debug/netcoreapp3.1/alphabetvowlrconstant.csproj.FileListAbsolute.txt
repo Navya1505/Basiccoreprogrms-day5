@@ -1,0 +1,13 @@
+C:\Users\geeth\source\repos\alphabetvowlrconstant\alphabetvowlrconstant\obj\Debug\netcoreapp3.1\alphabetvowlrconstant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geeth\source\repos\alphabetvowlrconstant\alphabetvowlrconstant\obj\Debug\netcoreapp3.1\alphabetvowlrconstant.AssemblyInfoInputs.cache
+C:\Users\geeth\source\repos\alphabetvowlrconstant\alphabetvowlrconstant\obj\Debug\netcoreapp3.1\alphabetvowlrconstant.AssemblyInfo.cs
+C:\Users\geeth\source\repos\alphabetvowlrconstant\alphabetvowlrconstant\obj\Debug\netcoreapp3.1\alphabetvowlrconstant.csproj.CoreCompileInputs.cache
+C:\Users\geeth\source\repos\alphabetvowlrconstant\alphabetvowlrconstant\bin\Debug\netcoreapp3.1\alphabetvowlrconstant.exe
+C:\Users\geeth\source\repos\alphabetvowlrconstant\alphabetvowlrconstant\bin\Debug\netcoreapp3.1\alphabetvowlrconstant.deps.json
+C:\Users\geeth\source\repos\alphabetvowlrconstant\alphabetvowlrconstant\bin\Debug\netcoreapp3.1\alphabetvowlrconstant.runtimeconfig.json
+C:\Users\geeth\source\repos\alphabetvowlrconstant\alphabetvowlrconstant\bin\Debug\netcoreapp3.1\alphabetvowlrconstant.runtimeconfig.dev.json
+C:\Users\geeth\source\repos\alphabetvowlrconstant\alphabetvowlrconstant\bin\Debug\netcoreapp3.1\alphabetvowlrconstant.dll
+C:\Users\geeth\source\repos\alphabetvowlrconstant\alphabetvowlrconstant\bin\Debug\netcoreapp3.1\alphabetvowlrconstant.pdb
+C:\Users\geeth\source\repos\alphabetvowlrconstant\alphabetvowlrconstant\obj\Debug\netcoreapp3.1\alphabetvowlrconstant.dll
+C:\Users\geeth\source\repos\alphabetvowlrconstant\alphabetvowlrconstant\obj\Debug\netcoreapp3.1\alphabetvowlrconstant.pdb
+C:\Users\geeth\source\repos\alphabetvowlrconstant\alphabetvowlrconstant\obj\Debug\netcoreapp3.1\alphabetvowlrconstant.genruntimeconfig.cache

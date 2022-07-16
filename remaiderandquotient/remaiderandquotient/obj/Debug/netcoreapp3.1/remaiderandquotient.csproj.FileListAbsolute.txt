@@ -1,0 +1,13 @@
+C:\Users\geeth\source\repos\remaiderandquotient\remaiderandquotient\bin\Debug\netcoreapp3.1\remaiderandquotient.exe
+C:\Users\geeth\source\repos\remaiderandquotient\remaiderandquotient\bin\Debug\netcoreapp3.1\remaiderandquotient.deps.json
+C:\Users\geeth\source\repos\remaiderandquotient\remaiderandquotient\bin\Debug\netcoreapp3.1\remaiderandquotient.runtimeconfig.json
+C:\Users\geeth\source\repos\remaiderandquotient\remaiderandquotient\bin\Debug\netcoreapp3.1\remaiderandquotient.runtimeconfig.dev.json
+C:\Users\geeth\source\repos\remaiderandquotient\remaiderandquotient\bin\Debug\netcoreapp3.1\remaiderandquotient.dll
+C:\Users\geeth\source\repos\remaiderandquotient\remaiderandquotient\bin\Debug\netcoreapp3.1\remaiderandquotient.pdb
+C:\Users\geeth\source\repos\remaiderandquotient\remaiderandquotient\obj\Debug\netcoreapp3.1\remaiderandquotient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geeth\source\repos\remaiderandquotient\remaiderandquotient\obj\Debug\netcoreapp3.1\remaiderandquotient.AssemblyInfoInputs.cache
+C:\Users\geeth\source\repos\remaiderandquotient\remaiderandquotient\obj\Debug\netcoreapp3.1\remaiderandquotient.AssemblyInfo.cs
+C:\Users\geeth\source\repos\remaiderandquotient\remaiderandquotient\obj\Debug\netcoreapp3.1\remaiderandquotient.csproj.CoreCompileInputs.cache
+C:\Users\geeth\source\repos\remaiderandquotient\remaiderandquotient\obj\Debug\netcoreapp3.1\remaiderandquotient.dll
+C:\Users\geeth\source\repos\remaiderandquotient\remaiderandquotient\obj\Debug\netcoreapp3.1\remaiderandquotient.pdb
+C:\Users\geeth\source\repos\remaiderandquotient\remaiderandquotient\obj\Debug\netcoreapp3.1\remaiderandquotient.genruntimeconfig.cache

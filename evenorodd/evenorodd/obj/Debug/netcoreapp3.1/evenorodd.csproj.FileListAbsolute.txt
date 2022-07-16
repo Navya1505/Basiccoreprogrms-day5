@@ -1,0 +1,14 @@
+C:\Users\geeth\source\repos\evenorodd\evenorodd\bin\Debug\netcoreapp3.1\evenorodd.exe
+C:\Users\geeth\source\repos\evenorodd\evenorodd\bin\Debug\netcoreapp3.1\evenorodd.deps.json
+C:\Users\geeth\source\repos\evenorodd\evenorodd\bin\Debug\netcoreapp3.1\evenorodd.runtimeconfig.json
+C:\Users\geeth\source\repos\evenorodd\evenorodd\bin\Debug\netcoreapp3.1\evenorodd.runtimeconfig.dev.json
+C:\Users\geeth\source\repos\evenorodd\evenorodd\bin\Debug\netcoreapp3.1\evenorodd.dll
+C:\Users\geeth\source\repos\evenorodd\evenorodd\bin\Debug\netcoreapp3.1\evenorodd.pdb
+C:\Users\geeth\source\repos\evenorodd\evenorodd\obj\Debug\netcoreapp3.1\evenorodd.csproj.AssemblyReference.cache
+C:\Users\geeth\source\repos\evenorodd\evenorodd\obj\Debug\netcoreapp3.1\evenorodd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geeth\source\repos\evenorodd\evenorodd\obj\Debug\netcoreapp3.1\evenorodd.AssemblyInfoInputs.cache
+C:\Users\geeth\source\repos\evenorodd\evenorodd\obj\Debug\netcoreapp3.1\evenorodd.AssemblyInfo.cs
+C:\Users\geeth\source\repos\evenorodd\evenorodd\obj\Debug\netcoreapp3.1\evenorodd.csproj.CoreCompileInputs.cache
+C:\Users\geeth\source\repos\evenorodd\evenorodd\obj\Debug\netcoreapp3.1\evenorodd.dll
+C:\Users\geeth\source\repos\evenorodd\evenorodd\obj\Debug\netcoreapp3.1\evenorodd.pdb
+C:\Users\geeth\source\repos\evenorodd\evenorodd\obj\Debug\netcoreapp3.1\evenorodd.genruntimeconfig.cache

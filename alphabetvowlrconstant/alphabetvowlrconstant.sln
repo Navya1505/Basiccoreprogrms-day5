@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "alphabetvowlrconstant", "alphabetvowlrconstant\alphabetvowlrconstant.csproj", "{79D0D269-A6B3-4B4A-A34F-76887B453B18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79D0D269-A6B3-4B4A-A34F-76887B453B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D0D269-A6B3-4B4A-A34F-76887B453B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D0D269-A6B3-4B4A-A34F-76887B453B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D0D269-A6B3-4B4A-A34F-76887B453B18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {099F2BB3-763D-4C6A-B6DC-0E6196FFD5F4}
+	EndGlobalSection
+EndGlobal

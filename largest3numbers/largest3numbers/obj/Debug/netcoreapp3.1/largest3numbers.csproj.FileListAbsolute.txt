@@ -1,0 +1,14 @@
+C:\Users\geeth\source\repos\largest3numbers\largest3numbers\bin\Debug\netcoreapp3.1\largest3numbers.exe
+C:\Users\geeth\source\repos\largest3numbers\largest3numbers\bin\Debug\netcoreapp3.1\largest3numbers.deps.json
+C:\Users\geeth\source\repos\largest3numbers\largest3numbers\bin\Debug\netcoreapp3.1\largest3numbers.runtimeconfig.json
+C:\Users\geeth\source\repos\largest3numbers\largest3numbers\bin\Debug\netcoreapp3.1\largest3numbers.runtimeconfig.dev.json
+C:\Users\geeth\source\repos\largest3numbers\largest3numbers\bin\Debug\netcoreapp3.1\largest3numbers.dll
+C:\Users\geeth\source\repos\largest3numbers\largest3numbers\bin\Debug\netcoreapp3.1\largest3numbers.pdb
+C:\Users\geeth\source\repos\largest3numbers\largest3numbers\obj\Debug\netcoreapp3.1\largest3numbers.csproj.AssemblyReference.cache
+C:\Users\geeth\source\repos\largest3numbers\largest3numbers\obj\Debug\netcoreapp3.1\largest3numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geeth\source\repos\largest3numbers\largest3numbers\obj\Debug\netcoreapp3.1\largest3numbers.AssemblyInfoInputs.cache
+C:\Users\geeth\source\repos\largest3numbers\largest3numbers\obj\Debug\netcoreapp3.1\largest3numbers.AssemblyInfo.cs
+C:\Users\geeth\source\repos\largest3numbers\largest3numbers\obj\Debug\netcoreapp3.1\largest3numbers.csproj.CoreCompileInputs.cache
+C:\Users\geeth\source\repos\largest3numbers\largest3numbers\obj\Debug\netcoreapp3.1\largest3numbers.dll
+C:\Users\geeth\source\repos\largest3numbers\largest3numbers\obj\Debug\netcoreapp3.1\largest3numbers.pdb
+C:\Users\geeth\source\repos\largest3numbers\largest3numbers\obj\Debug\netcoreapp3.1\largest3numbers.genruntimeconfig.cache

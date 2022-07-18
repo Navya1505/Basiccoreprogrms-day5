@@ -1,0 +1,5 @@
+C:\Users\geeth\source\repos\binary2\binary2\obj\Debug\netcoreapp3.1\binary2.csproj.AssemblyReference.cache
+C:\Users\geeth\source\repos\binary2\binary2\obj\Debug\netcoreapp3.1\binary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geeth\source\repos\binary2\binary2\obj\Debug\netcoreapp3.1\binary2.AssemblyInfoInputs.cache
+C:\Users\geeth\source\repos\binary2\binary2\obj\Debug\netcoreapp3.1\binary2.AssemblyInfo.cs
+C:\Users\geeth\source\repos\binary2\binary2\obj\Debug\netcoreapp3.1\binary2.csproj.CoreCompileInputs.cache

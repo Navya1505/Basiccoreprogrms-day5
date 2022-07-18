@@ -1,0 +1,14 @@
+C:\Users\geeth\source\repos\calender\calender\bin\Debug\netcoreapp3.1\calender.exe
+C:\Users\geeth\source\repos\calender\calender\bin\Debug\netcoreapp3.1\calender.deps.json
+C:\Users\geeth\source\repos\calender\calender\bin\Debug\netcoreapp3.1\calender.runtimeconfig.json
+C:\Users\geeth\source\repos\calender\calender\bin\Debug\netcoreapp3.1\calender.runtimeconfig.dev.json
+C:\Users\geeth\source\repos\calender\calender\bin\Debug\netcoreapp3.1\calender.dll
+C:\Users\geeth\source\repos\calender\calender\bin\Debug\netcoreapp3.1\calender.pdb
+C:\Users\geeth\source\repos\calender\calender\obj\Debug\netcoreapp3.1\calender.csproj.AssemblyReference.cache
+C:\Users\geeth\source\repos\calender\calender\obj\Debug\netcoreapp3.1\calender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geeth\source\repos\calender\calender\obj\Debug\netcoreapp3.1\calender.AssemblyInfoInputs.cache
+C:\Users\geeth\source\repos\calender\calender\obj\Debug\netcoreapp3.1\calender.AssemblyInfo.cs
+C:\Users\geeth\source\repos\calender\calender\obj\Debug\netcoreapp3.1\calender.csproj.CoreCompileInputs.cache
+C:\Users\geeth\source\repos\calender\calender\obj\Debug\netcoreapp3.1\calender.dll
+C:\Users\geeth\source\repos\calender\calender\obj\Debug\netcoreapp3.1\calender.pdb
+C:\Users\geeth\source\repos\calender\calender\obj\Debug\netcoreapp3.1\calender.genruntimeconfig.cache

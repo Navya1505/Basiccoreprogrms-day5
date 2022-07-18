@@ -1,0 +1,14 @@
+C:\Users\geeth\source\repos\squareroot\squareroot\bin\Debug\netcoreapp3.1\squareroot.exe
+C:\Users\geeth\source\repos\squareroot\squareroot\bin\Debug\netcoreapp3.1\squareroot.deps.json
+C:\Users\geeth\source\repos\squareroot\squareroot\bin\Debug\netcoreapp3.1\squareroot.runtimeconfig.json
+C:\Users\geeth\source\repos\squareroot\squareroot\bin\Debug\netcoreapp3.1\squareroot.runtimeconfig.dev.json
+C:\Users\geeth\source\repos\squareroot\squareroot\bin\Debug\netcoreapp3.1\squareroot.dll
+C:\Users\geeth\source\repos\squareroot\squareroot\bin\Debug\netcoreapp3.1\squareroot.pdb
+C:\Users\geeth\source\repos\squareroot\squareroot\obj\Debug\netcoreapp3.1\squareroot.csproj.AssemblyReference.cache
+C:\Users\geeth\source\repos\squareroot\squareroot\obj\Debug\netcoreapp3.1\squareroot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geeth\source\repos\squareroot\squareroot\obj\Debug\netcoreapp3.1\squareroot.AssemblyInfoInputs.cache
+C:\Users\geeth\source\repos\squareroot\squareroot\obj\Debug\netcoreapp3.1\squareroot.AssemblyInfo.cs
+C:\Users\geeth\source\repos\squareroot\squareroot\obj\Debug\netcoreapp3.1\squareroot.csproj.CoreCompileInputs.cache
+C:\Users\geeth\source\repos\squareroot\squareroot\obj\Debug\netcoreapp3.1\squareroot.dll
+C:\Users\geeth\source\repos\squareroot\squareroot\obj\Debug\netcoreapp3.1\squareroot.pdb
+C:\Users\geeth\source\repos\squareroot\squareroot\obj\Debug\netcoreapp3.1\squareroot.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\geeth\source\repos\tempconv\tempconv\bin\Debug\netcoreapp3.1\tempconv.exe
+C:\Users\geeth\source\repos\tempconv\tempconv\bin\Debug\netcoreapp3.1\tempconv.deps.json
+C:\Users\geeth\source\repos\tempconv\tempconv\bin\Debug\netcoreapp3.1\tempconv.runtimeconfig.json
+C:\Users\geeth\source\repos\tempconv\tempconv\bin\Debug\netcoreapp3.1\tempconv.runtimeconfig.dev.json
+C:\Users\geeth\source\repos\tempconv\tempconv\bin\Debug\netcoreapp3.1\tempconv.dll
+C:\Users\geeth\source\repos\tempconv\tempconv\bin\Debug\netcoreapp3.1\tempconv.pdb
+C:\Users\geeth\source\repos\tempconv\tempconv\obj\Debug\netcoreapp3.1\tempconv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geeth\source\repos\tempconv\tempconv\obj\Debug\netcoreapp3.1\tempconv.AssemblyInfoInputs.cache
+C:\Users\geeth\source\repos\tempconv\tempconv\obj\Debug\netcoreapp3.1\tempconv.AssemblyInfo.cs
+C:\Users\geeth\source\repos\tempconv\tempconv\obj\Debug\netcoreapp3.1\tempconv.csproj.CoreCompileInputs.cache
+C:\Users\geeth\source\repos\tempconv\tempconv\obj\Debug\netcoreapp3.1\tempconv.dll
+C:\Users\geeth\source\repos\tempconv\tempconv\obj\Debug\netcoreapp3.1\tempconv.pdb
+C:\Users\geeth\source\repos\tempconv\tempconv\obj\Debug\netcoreapp3.1\tempconv.genruntimeconfig.cache

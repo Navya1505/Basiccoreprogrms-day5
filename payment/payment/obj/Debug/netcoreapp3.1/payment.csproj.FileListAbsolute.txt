@@ -1,0 +1,5 @@
+C:\Users\geeth\source\repos\payment\payment\obj\Debug\netcoreapp3.1\payment.csproj.AssemblyReference.cache
+C:\Users\geeth\source\repos\payment\payment\obj\Debug\netcoreapp3.1\payment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geeth\source\repos\payment\payment\obj\Debug\netcoreapp3.1\payment.AssemblyInfoInputs.cache
+C:\Users\geeth\source\repos\payment\payment\obj\Debug\netcoreapp3.1\payment.AssemblyInfo.cs
+C:\Users\geeth\source\repos\payment\payment\obj\Debug\netcoreapp3.1\payment.csproj.CoreCompileInputs.cache

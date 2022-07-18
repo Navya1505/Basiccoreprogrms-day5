@@ -1,0 +1,14 @@
+C:\Users\geeth\source\repos\stopwatchpgrm\stopwatchpgrm\obj\Debug\netcoreapp3.1\stopwatchpgrm.csproj.AssemblyReference.cache
+C:\Users\geeth\source\repos\stopwatchpgrm\stopwatchpgrm\obj\Debug\netcoreapp3.1\stopwatchpgrm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geeth\source\repos\stopwatchpgrm\stopwatchpgrm\obj\Debug\netcoreapp3.1\stopwatchpgrm.AssemblyInfoInputs.cache
+C:\Users\geeth\source\repos\stopwatchpgrm\stopwatchpgrm\obj\Debug\netcoreapp3.1\stopwatchpgrm.AssemblyInfo.cs
+C:\Users\geeth\source\repos\stopwatchpgrm\stopwatchpgrm\obj\Debug\netcoreapp3.1\stopwatchpgrm.csproj.CoreCompileInputs.cache
+C:\Users\geeth\source\repos\stopwatchpgrm\stopwatchpgrm\bin\Debug\netcoreapp3.1\stopwatchpgrm.exe
+C:\Users\geeth\source\repos\stopwatchpgrm\stopwatchpgrm\bin\Debug\netcoreapp3.1\stopwatchpgrm.deps.json
+C:\Users\geeth\source\repos\stopwatchpgrm\stopwatchpgrm\bin\Debug\netcoreapp3.1\stopwatchpgrm.runtimeconfig.json
+C:\Users\geeth\source\repos\stopwatchpgrm\stopwatchpgrm\bin\Debug\netcoreapp3.1\stopwatchpgrm.runtimeconfig.dev.json
+C:\Users\geeth\source\repos\stopwatchpgrm\stopwatchpgrm\bin\Debug\netcoreapp3.1\stopwatchpgrm.dll
+C:\Users\geeth\source\repos\stopwatchpgrm\stopwatchpgrm\bin\Debug\netcoreapp3.1\stopwatchpgrm.pdb
+C:\Users\geeth\source\repos\stopwatchpgrm\stopwatchpgrm\obj\Debug\netcoreapp3.1\stopwatchpgrm.dll
+C:\Users\geeth\source\repos\stopwatchpgrm\stopwatchpgrm\obj\Debug\netcoreapp3.1\stopwatchpgrm.pdb
+C:\Users\geeth\source\repos\stopwatchpgrm\stopwatchpgrm\obj\Debug\netcoreapp3.1\stopwatchpgrm.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\geeth\source\repos\fibnoseries\fibnoseries\bin\Debug\netcoreapp3.1\fibnoseries.exe
+C:\Users\geeth\source\repos\fibnoseries\fibnoseries\bin\Debug\netcoreapp3.1\fibnoseries.deps.json
+C:\Users\geeth\source\repos\fibnoseries\fibnoseries\bin\Debug\netcoreapp3.1\fibnoseries.runtimeconfig.json
+C:\Users\geeth\source\repos\fibnoseries\fibnoseries\bin\Debug\netcoreapp3.1\fibnoseries.runtimeconfig.dev.json
+C:\Users\geeth\source\repos\fibnoseries\fibnoseries\bin\Debug\netcoreapp3.1\fibnoseries.dll
+C:\Users\geeth\source\repos\fibnoseries\fibnoseries\bin\Debug\netcoreapp3.1\fibnoseries.pdb
+C:\Users\geeth\source\repos\fibnoseries\fibnoseries\obj\Debug\netcoreapp3.1\fibnoseries.csproj.AssemblyReference.cache
+C:\Users\geeth\source\repos\fibnoseries\fibnoseries\obj\Debug\netcoreapp3.1\fibnoseries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geeth\source\repos\fibnoseries\fibnoseries\obj\Debug\netcoreapp3.1\fibnoseries.AssemblyInfoInputs.cache
+C:\Users\geeth\source\repos\fibnoseries\fibnoseries\obj\Debug\netcoreapp3.1\fibnoseries.AssemblyInfo.cs
+C:\Users\geeth\source\repos\fibnoseries\fibnoseries\obj\Debug\netcoreapp3.1\fibnoseries.csproj.CoreCompileInputs.cache
+C:\Users\geeth\source\repos\fibnoseries\fibnoseries\obj\Debug\netcoreapp3.1\fibnoseries.dll
+C:\Users\geeth\source\repos\fibnoseries\fibnoseries\obj\Debug\netcoreapp3.1\fibnoseries.pdb
+C:\Users\geeth\source\repos\fibnoseries\fibnoseries\obj\Debug\netcoreapp3.1\fibnoseries.genruntimeconfig.cache

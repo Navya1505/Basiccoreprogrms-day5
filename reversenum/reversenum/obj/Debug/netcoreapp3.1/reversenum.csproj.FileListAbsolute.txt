@@ -1,0 +1,14 @@
+C:\Users\geeth\source\repos\reversenum\reversenum\bin\Debug\netcoreapp3.1\reversenum.exe
+C:\Users\geeth\source\repos\reversenum\reversenum\bin\Debug\netcoreapp3.1\reversenum.deps.json
+C:\Users\geeth\source\repos\reversenum\reversenum\bin\Debug\netcoreapp3.1\reversenum.runtimeconfig.json
+C:\Users\geeth\source\repos\reversenum\reversenum\bin\Debug\netcoreapp3.1\reversenum.runtimeconfig.dev.json
+C:\Users\geeth\source\repos\reversenum\reversenum\bin\Debug\netcoreapp3.1\reversenum.dll
+C:\Users\geeth\source\repos\reversenum\reversenum\bin\Debug\netcoreapp3.1\reversenum.pdb
+C:\Users\geeth\source\repos\reversenum\reversenum\obj\Debug\netcoreapp3.1\reversenum.csproj.AssemblyReference.cache
+C:\Users\geeth\source\repos\reversenum\reversenum\obj\Debug\netcoreapp3.1\reversenum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geeth\source\repos\reversenum\reversenum\obj\Debug\netcoreapp3.1\reversenum.AssemblyInfoInputs.cache
+C:\Users\geeth\source\repos\reversenum\reversenum\obj\Debug\netcoreapp3.1\reversenum.AssemblyInfo.cs
+C:\Users\geeth\source\repos\reversenum\reversenum\obj\Debug\netcoreapp3.1\reversenum.csproj.CoreCompileInputs.cache
+C:\Users\geeth\source\repos\reversenum\reversenum\obj\Debug\netcoreapp3.1\reversenum.dll
+C:\Users\geeth\source\repos\reversenum\reversenum\obj\Debug\netcoreapp3.1\reversenum.pdb
+C:\Users\geeth\source\repos\reversenum\reversenum\obj\Debug\netcoreapp3.1\reversenum.genruntimeconfig.cache

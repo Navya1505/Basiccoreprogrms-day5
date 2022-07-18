@@ -1,0 +1,5 @@
+C:\Users\geeth\source\repos\Coupon\Coupon\obj\Debug\netcoreapp3.1\Coupon.csproj.AssemblyReference.cache
+C:\Users\geeth\source\repos\Coupon\Coupon\obj\Debug\netcoreapp3.1\Coupon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geeth\source\repos\Coupon\Coupon\obj\Debug\netcoreapp3.1\Coupon.AssemblyInfoInputs.cache
+C:\Users\geeth\source\repos\Coupon\Coupon\obj\Debug\netcoreapp3.1\Coupon.AssemblyInfo.cs
+C:\Users\geeth\source\repos\Coupon\Coupon\obj\Debug\netcoreapp3.1\Coupon.csproj.CoreCompileInputs.cache
